@@ -1,6 +1,6 @@
 [submodule "UE4VoxelTerrain/Plugins/UnrealSandboxTerrain"]
 	path = UE4VoxelTerrain/Plugins/UnrealSandboxTerrain
-	url = https://github.com/bw2012/UnrealSandboxTerrain.git
+	url = https://github.com/RonYanDaik/UnrealSandboxTerrain.git
 [submodule "UE4VoxelTerrain/Plugins/UnrealSandboxToolkit"]
 	path = UE4VoxelTerrain/Plugins/UnrealSandboxToolkit
-	url = https://github.com/bw2012/UnrealSandboxToolkit.git
+	url = https://github.com/RonYanDaik/UnrealSandboxToolkit.git
